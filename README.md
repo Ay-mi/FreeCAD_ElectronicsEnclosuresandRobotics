@@ -6,7 +6,8 @@ This repository contains the workbench that automates the generation of:
 - HDMI, USB-C, USB-B cutouts
 - Robot arm base and links
 
-The scripts were written using either the Part workbench alone employing constructive solid geometry (CSG) modelling or a combination of the Sketcher and Part Design workbench (parametric modelling). 
+The scripts were written using either the Part workbench alone employing constructive solid geometry (CSG) modelling or a combination of the Sketcher and Part Design workbench (parametric modelling).  
+
 I'm hoping to build on my work in the future and introduce a script that can automatically detect the edges of a PCB imported from KiCAD and generate an enclosure according to the shapes it detects along the edges. I'm also looking forward to learning more about robotics so that I can improve the robotics features and make them flexible and relevant to more types of users.
 
 The poster below was made at the end of the project to summarize the complete work.
